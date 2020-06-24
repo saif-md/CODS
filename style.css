@@ -4,9 +4,9 @@ body {
 }
 
 .item {
-	margin: 5px;
+	margin: 5px 0 9px 0;
 	padding-top: 10px;
-	background-color: white
+	background-color: white;
 }
 
 .title {
